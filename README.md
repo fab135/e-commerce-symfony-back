@@ -4,7 +4,7 @@
 - symfony cli
 ```
 
-## Clone this reposiroty
+## Clone this repository
 
 `git clone https://github.com/mickaelnambs/e-commerce-symfony-back.git`
 
